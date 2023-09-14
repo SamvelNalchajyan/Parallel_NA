@@ -1,2 +1,3 @@
 # Parallel_NA
-LU
+LU decomposition
+Dirichlet problem
